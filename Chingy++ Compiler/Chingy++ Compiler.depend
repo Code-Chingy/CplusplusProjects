@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1545192490 source:d:\codes\cplusplus\chingy++ compiler\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<fstream>
+
+1568426274 source:c:\users\otc_chingy\cplusplusprojects\chingy++ compiler\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	<Test.h>
+
+1568426365 source:c:\users\otc_chingy\cplusplusprojects\chingy++ compiler\src\test.cpp
+	"Test.h"
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<fstream>
+
+1568426399 c:\users\otc_chingy\cplusplusprojects\chingy++ compiler\include\test.h
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<fstream>
+
